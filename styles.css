@@ -1,0 +1,97 @@
+body {
+    background-color: #e98888;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    text-align: center;
+}
+
+.avatar {
+    width: 200px;
+    height: 200px;
+}
+
+.header__title {
+    font-size: 30px;
+
+}
+
+.header__subtitle {
+    color: rgb(0, 0, 0);
+
+}
+
+main {
+    /* border:2px solid rgb(245, 230, 18); */
+    text-align: center;
+}
+
+.skills  ol {
+    list-style: none;
+}
+
+.separator {
+    width: 70%;
+    height: 3px;
+    background-color: #22700a;
+}
+
+.video {
+    width: 800px;
+    height: 490px;
+}
+
+.hobbies {
+    border: 2px solid blue;
+}
+
+.ed__table {
+    border-collapse: collapse ;
+    width: 100%;
+
+}
+
+.ed__table th,
+.ed__table td {
+    border: 3px solid rgb(144, 165, 23);
+    padding: 10px;
+}
+
+.qoute {
+    font-size: 32px;
+
+}
+
+.form {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.form-control {
+    width: 100%;
+}
+
+.control_text{
+    width: 70%;
+}
+
+
+.form__submit {
+    display: block;
+    margin: 0 auto
+}
+
+.footer {
+    height: 200px;
+    text-align: center;
+    background-color: aqua;
+}
+
+div a {
+    text-decoration: none;
+   
+    width: max-content;
+    margin: 0 auto;
+    padding: 10px;
+}
